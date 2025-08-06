@@ -1,7 +1,14 @@
+
+
 ---
 layout: default
 title: Book
+toc: true
+toc_depth: 1
 ---
+
+
+
 
 # Sample Documentation
 
