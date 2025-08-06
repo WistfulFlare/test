@@ -1,9 +1,6 @@
 ---
-layout: single
-title: "Sample Documentation"
-toc: true
-toc_sticky: true
-author_profile: true
+layout: default
+title: Book
 ---
 
 # Sample Documentation
