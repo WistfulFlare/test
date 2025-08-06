@@ -2,7 +2,7 @@
 layout: default
 title: Book
 toc: true
-toc_depth: 1
+toc_depth: 3
 ---
 
 
