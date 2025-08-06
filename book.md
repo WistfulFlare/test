@@ -5,7 +5,7 @@ title: Book
 
 # Sample Documentation
 
-Welcome to your documentation! This page demonstrates the [Minimal Mistakes](https://mmistakes.github.io/minimal-mistakes/) theme, including a sidebar Table of Contents (TOC) that is automatically generated from headers on this page.
+Welcome to your documentation!
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque euismod, urna eu tincidunt consectetur, nisi nunc ultricies nisi, vitae dictum massa enim nec erat. Mauris convallis commodo erat, nec consequat erat dictum non.
 
